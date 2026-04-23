@@ -9,7 +9,7 @@ A simple color-palette-generator that let you copy hex code with one click.
 1. Generates 5 random colors at once.
 2. Display each color in a box with a hex code.
 3. Click the copy button or the color itself to copy hex code to your clipboard.
-4. Show a quick success mark when a color iis copied.
+4. Show a quick success mark when a color is copied.
 
 
 ----
