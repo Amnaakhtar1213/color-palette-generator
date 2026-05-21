@@ -1,10 +1,10 @@
-## COLOR-PALETTE-GENERATOR
+## COLOR-PALETTE-GENERATOR 🎨
 
-A simple color-palette-generator that let you copy hex code with one click.
+A simple color-palette-generator that let you generate a different color and copy hex code with one click.
 
 ----
 
-## Features
+## Features 🚀
 
 1. Generates 5 random colors at once.
 2. Display each color in a box with a hex code.
@@ -13,7 +13,7 @@ A simple color-palette-generator that let you copy hex code with one click.
 
 
 ----
-## Technology 
+## Technology ⚒️
 
 - index.html
 - style.css
@@ -22,6 +22,23 @@ A simple color-palette-generator that let you copy hex code with one click.
 ----  
 
 ##  How to run
-[Click here to view the repository on GITHUB](https://github.com/Amnaakhtar1213/color-palette-generator.git)
+
+-------------------------
+
+## SCREENSHOT 📸
+
+Here's you take a quick look:
+- [Click here for color-generator screenshot](ss.png)
+
+-------------------
+
+## LIVE DEMO 🌐
+
+Here's you test yourself via live-demo:
+- [Click here for color-generator live-demo]()
+
+----------------------------
+
+## Clone the Repository
 ```bash
 git clone https://github.com/Amnaakhtar1213/color-palette-generator.git
