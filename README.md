@@ -21,7 +21,7 @@ A simple color-palette-generator that let you generate a different color and cop
 
 ----  
 
-##  How to run
+##  How to run ✨
 
 -------------------------
 
@@ -35,7 +35,7 @@ Here's you take a quick look:
 ## LIVE DEMO 🌐
 
 Here's you test yourself via live-demo:
-- [Click here for color-generator live-demo]()
+- [Click here for color-generator live-demo](https://amnaakhtar1213.github.io/color-palette-generator/)
 
 ----------------------------
 
